@@ -5,7 +5,7 @@ python -m venv venv
 
 pip install -r requirements.txt
 
- в случае отсуттвии базы или пересоздания:
+ в случае отсутствия базы или удаления:
  
 python
 
